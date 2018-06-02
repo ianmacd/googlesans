@@ -1,0 +1,7 @@
+id=productsans
+name=Product Sans drop-in system font replacement
+version=v1.0
+versionCode=10
+author=ianmacd
+description=Provides Product Sans from Android P Developer Preview as a drop-in replacement for the current system font.
+minMagisk=1500
