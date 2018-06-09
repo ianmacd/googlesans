@@ -1,10 +1,14 @@
-# **Product Sans system font replacement**
+# **Google Sans system font replacement**
 
 ## Description
 
-This module masks the current system font with the Product Sans font from Android P Developer Preview.
+This module masks the current system font with the Google Sans font.
 
 ## Changelog
+
+2018-06-09: v1.1
+
+- Change Product Sans references to Google Sans.
 
 2018-05-31: v1.0
 

@@ -50,7 +50,7 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "********************************"
-  ui_print "  Product Sans font installer"
+  ui_print "   Google Sans font installer"
   ui_print "********************************"
 }
 
