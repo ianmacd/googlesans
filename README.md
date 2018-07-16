@@ -6,6 +6,10 @@ This module masks the current system font with the Google Sans font.
 
 ## Changelog
 
+2018-06-09: v1.2
+
+- Fonts updated from Android P Developer Preview 4.
+
 2018-06-09: v1.1
 
 - Change Product Sans references to Google Sans.

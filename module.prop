@@ -1,7 +1,7 @@
 id=productsans
 name=Google Sans drop-in system font replacement
-version=v1.1
-versionCode=11
+version=v1.2
+versionCode=12
 author=ianmacd
 description=Provides Google Sans as a drop-in replacement for the current system font.
 minMagisk=1500
